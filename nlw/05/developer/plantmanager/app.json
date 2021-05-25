@@ -4,9 +4,9 @@
     "slug": "plantmanager",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "",
+    "icon": "./assets/icon.png",
     "splash": {
-      "image": "./src/assets/load.json",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "",
+        "foregroundImage": "./assets/favicon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": ""
+      "favicon": "./assets/favicon.png"
     }
   }
 }
